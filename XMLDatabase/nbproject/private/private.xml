@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>src/indexManager/BTreeIndex.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>80</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/indexManager/BTreeNode.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>133</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>418</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/xmlBuilder/NewHandler.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>201</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/Twig.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/EvaluationTree/EvaluationTreeNodeInput.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/RGResultComparator.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/SharedInput.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/DBServer/operators/QueryOperator.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/indexManager/ElementIndex.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/userInterface/JFrameDB.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/RG.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/indexManager/IndexManager.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlBuilder/NewHandler.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/outputGenerator/ExportData.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/indexManager/StructuralSummaryManager.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/indexManager/ContentMaxKey.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/documentManager/Document.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/TwigResult.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/QTP/QueryTreePattern.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/QTPParser.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/RGResultSet.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/TwigJoinMultiplexerOp.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/TwigInput.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/QueryResult.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/TwigJoinOp.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/diskManager/DiskManager.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/QueryRG01Op.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/RGGroupedCorrelatedPlansTuple.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/indexManager/BTreeIndex.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/LogicalFileManager/LogicalFileManager.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/EvaluationTree/EvaluationTreeNode.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/documentManager/DocumentManager.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/QTP/QTPNode.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/CorrelatedPlans.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/RGCorrelatedPlansTupleComparator.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/EvaluationTree/EvaluationTree.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/QueryRG07Op.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlBuilder/XmlParser.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/QueryRG05Op.java</file>
+            <file>file:/E:/Programming/Programming_In_Java/Thesis/XMLDatabase/src/xmlProcessor/RG/RG05/InputWrapper.java</file>
+        </group>
+    </open-files>
+</project-private>
